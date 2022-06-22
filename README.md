@@ -9,5 +9,5 @@
 <br>
 </div>
 
-<p align="center">[![HitCount](https://hits.dwyl.com/yasinhoca/yasinhoca.svg?style=flat-square&show=unique)](http://hits.dwyl.com/yasinhoca/yasinhoca)</p>
+[![HitCount](https://hits.dwyl.com/yasinhoca/yasinhoca.svg?style=flat-square&show=unique)](http://hits.dwyl.com/yasinhoca/yasinhoca)
 
