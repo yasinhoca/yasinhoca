@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 <img src="https://github.com/yasinhoca/yasinhoca/blob/main/200.gif?raw=true" > 
  <br><i>Quod nocet, saepe docet</i>
   <br>
