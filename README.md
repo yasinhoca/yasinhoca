@@ -6,6 +6,8 @@
   <br>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinhoca&langs_count=10&theme=radical" alt="Top Langs" />
  <br>
+ 
+ [![HitCount](https://hits.dwyl.com/yasinhoca/yasinhoca.svg?style=flat-square&show=unique)](http://hits.dwyl.com/yasinhoca/yasinhoca)
 </div>
 
-[![HitCount](https://hits.dwyl.com/yasinhoca/yasinhoca.svg?style=flat-square&show=unique)](http://hits.dwyl.com/yasinhoca/yasinhoca)
+
