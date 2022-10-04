@@ -9,7 +9,7 @@
  
  [![HitCount](https://hits.dwyl.com/yasinhoca/yasinhoca.svg?style=flat-square&show=unique)](http://hits.dwyl.com/yasinhoca/yasinhoca)
  
-![snake gif](https://github.com/yasinhoca/yasinhoca/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
 
