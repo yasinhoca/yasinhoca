@@ -9,7 +9,7 @@
  
  [![HitCount](https://hits.dwyl.com/yasinhoca/yasinhoca.svg?style=flat-square&show=unique)](http://hits.dwyl.com/yasinhoca/yasinhoca)
  
-![github contribution grid snake animation](https://raw.githubusercontent.com/yasinhoca/yasinhoca/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/yasinhoca/platane/yasinhoca/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/yasinhoca/platane/yasinhoca/output/github-contribution-grid-snake.svg#gh-light-mode-only)
  
 </div>
 
